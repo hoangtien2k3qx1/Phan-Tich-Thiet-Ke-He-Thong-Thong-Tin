@@ -51,6 +51,9 @@ Cùng ký hiệu với Fork nhưng thể hiện trường hợp phải thực hi
 ![](https://iviettech.vn/wp-content/uploads/2014/04/join.png)
 
 
+## Ví Dụ:
+
+![image](https://github.com/hoangtien2k3qx1/Phan-Tich-Thiet-Ke-He-Thong-Thong-Tin/assets/122768076/9795933c-969d-4b61-9db3-d1c55483c73d)
 
 
 
