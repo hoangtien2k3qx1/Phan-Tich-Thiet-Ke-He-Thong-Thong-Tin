@@ -16,12 +16,10 @@ Sequence Diagarm là bản vẽ mô tả sự tương tác của các đối tư
 ![](https://images.viblo.asia/576e55c1-b7ec-4ba0-933c-6217bf69dbae.png)
 
 
-
 ### [Thông điệp (Message)](): biểu diễn bằng các đường mũi tên
 - Thông điệp được dùng để giao tiếp giữa các đối tượng và lớp. Có nhiều loại thông điệp
 
 ![](https://images.viblo.asia/53f07977-fc2d-40e6-969a-0b9040bf5a64.png)
-
 
 
 ### [Xử lí bên trong đối tượng](): (biểu diễn bằng các đoạn hình chữ nhật rỗng nối với các đường đời đối tượng)
