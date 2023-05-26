@@ -28,38 +28,39 @@ Use Case là chức năng mà các Actor sẽ sử dụng. Nó được ký hi�
 Relationship hay còn gọi là connector được sử dụng để kết nối giữa các đối tượng với nhau tạo nên bản vẽ Use Case. 
 
 Có các kiểu quan hệ cơ bản sau:
-- [Association]()
-- [Generalization]()
-- [Include]()
-- [Extend]()
+- Mối quan hệ tương tác [Association]().
+- Mối quan hệ bao gồm [Include]()
+- Mối quan hệ mở rộng [Extend]()
+- Mối quan hệ kế thừa [Generalization]() (Inheritance).
 
 
 #### Chúng ta sẽ lần lượt tìm hiểu về các kiểu quan hệ dưới đây.
-+ [Quan hệ Association]()
+### [Quan hệ - Association]()
+[Association]() : thường được dùng để mô tả mối quan hệ giữa Actor và Use Case và giữa các Use Case với nhau.
 
 ![](https://iviettech.vn/wp-content/uploads/2014/01/Association.jpg)
 
-+ [Association]() : thường được dùng để mô tả mối quan hệ giữa Actor và Use Case và giữa các Use Case với nhau.
-
 ![](https://iviettech.vn/wp-content/uploads/2014/01/Use-Case-Association.jpg)
 
-+ [Quan hệ  Generalization]()
+
+### [Quan hệ - Generalization]() (kế thừa)
+[Generalization]() được sử dụng để thể hiện quan hệ thừa kế giữa các Actor hoặc giữa các Use Case với nhau.
 
 ![](https://iviettech.vn/wp-content/uploads/2014/01/Generalization.jpg)
-
-Generalization được sử dụng để thể hiện quan hệ thừa kế giữa các Actor hoặc giữa các Use Case với nhau.
 
 ![](https://iviettech.vn/wp-content/uploads/2014/01/Actor-Generation.jpg)
 
 
-+ [Quan hệ Include]()
+### [Quan hệ Include]()
+[Include](): Biểu thị mối quan hệ giữa các use case, cho biết một use case đã được bao gồm trong use case khác.
 
 ![](https://iviettech.vn/wp-content/uploads/2014/01/Include.jpg)
 
 ![](https://iviettech.vn/wp-content/uploads/2014/01/UseCase-Include.jpg)
 
 
-+ [Quan hệ  Extend]()
+### [Quan hệ - Extend]()
+[Extend](): Biểu thị mối quan hệ giữa các use case, cho biết use case này có thể được mở rộng hoặc mở rộng một use case khác.
 
 ![](https://iviettech.vn/wp-content/uploads/2014/01/Extend.jpg)
 
@@ -68,7 +69,6 @@ Generalization được sử dụng để thể hiện quan hệ thừa kế gi�
 
 ## Ví dụ:
 ![](https://iviettech.vn/wp-content/uploads/2014/01/UseCase-Diagram-1.jpg)
-
 
 
 ## Cách 1: Viết đặc tả cho các Use Case

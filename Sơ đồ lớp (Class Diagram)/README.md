@@ -17,7 +17,6 @@
 ![](https://iviettech.vn/wp-content/uploads/2014/03/Class_Diagram1.jpg)
 
 
-
 ### + [1. Classes (Các lớp)]():
   Class mô tả về một nhóm đối tượng có cùng tính chất, hành động trong hệ thống. 
 
